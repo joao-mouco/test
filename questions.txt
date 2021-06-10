@@ -1,0 +1,64 @@
+how accurate is the nlp solution?
+over 95% - for standart classification
+
+how long does it take to reach at least 90% accuracy?
+with pre-trained - 1 week
+with human in the loop (more complex) - weeks or months 
+
+
+what amount of training data would be required to reach desirable accuracy levels?
+
+
+how much will we have to clean our data for it to be used by your solution?
+pre-processing the data on their side
+
+what data types does it support? can it be any data type? i.e an image of a word document, cad files with text
+alot of file types (images, text documents, emails)
+
+what is your policy on training and retraining the models? (time)
+there are some pre-trained models which come ready to go
+
+real-time vs batch results?
+both
+
+how do you validate the results?
+they have an automated way as well as a human in the loop (operations team) - they can create labels in house
+
+
+are there humans in the loop? is it possible to add?
+they have a human in the loop (data scientists)
+
+
+is the solution plug and play?
+yes - they have pre-built models
+
+
+can the solution be customized according to my needs?
+yes - they can create personalized solutions for us (like accepting new file types)
+
+
+which parts can be customized? models, data pipelines etc
+ML and pre-processing tools
+
+is the nlp solution affordable at scale?
+
+
+how well does the platform scale?
+cloud-native approaches 
+
+can i leverage my own resources into the solution? on prem, cloud etc
+yes, cloud mainly
+
+what are its integration capabilities?
+
+
+how to you expose the endpoint of the solution? is it an API, website etc...
+API, outlook plug-ins (not yet all capabilities are covered)
+
+how do I maintain the infrastructure?
+
+
+what resources will we need to implement your solution to it's full potential?
+
+
+will you be providing continuous support? how will the solution be handed over to us?
